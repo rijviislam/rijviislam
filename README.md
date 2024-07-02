@@ -10,11 +10,11 @@
 <p>
 Having expertise in creating dynamic and responsive websites using JavaScript, HTML5, CSS3, Tailwind CSS, React.js and contemporary libraries and frameworks.
 </p>
-* Knowledgeable about HTML, CSS,Tailwind CSS, JavaScript and React.js
-* Acquiring and utilizing Using React to create dynamic websites
-* Used to collaborative development processes and Git version control
-* Flexible and keen to pick up new technology to broaden my horizons
-* ✉️ You can contact me at [rijviislam54@gmail.com]
+- 🧑‍💻 Knowledgeable about HTML, CSS, Tailwind CSS, JavaScript, and React.js
+- 🚀 Acquiring and utilizing React to create dynamic websites
+- 🤝 Used to collaborative development processes and Git version control
+- 🌱 Flexible and keen to pick up new technology to broaden my horizons
+- ✉️ You can contact me at [rijviislam54@gmail.com]
 <h2 align="center">🌐 Social 🌐</h2>
 <h5 align="center">
   <code><a href="
