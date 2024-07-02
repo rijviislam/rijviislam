@@ -32,9 +32,22 @@
                                                                                         <code><img title="Tailwind CSS" height="25" src="https://th.bing.com/th/id/OIP.ScsTorj8Sg1nHM8D4J8l-wAAAA?pid=ImgDet&w=194&h=194&c=7"></code>
 </p>
 <hr>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijviislam&show_icons=true&locale=en&layout=compact" alt="rijviislam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rijviislam&show_icons=true&locale=en" alt="rijviislam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rijviislam&" alt="rijviislam" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rijviislam&theme=react&border=61dafb&hide_border=true" alt="rijviislam" />
+  
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=rijviislam&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="rijviislam" />
+    </a>
+    </a>
+  </div>
+   <br><br><br><br><br><br><br><br><br>
+    <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijviislam&show_icons=true&locale=en&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true&langs_count=8" alt="Top Languages" />
+    </a>
+  </div>
+  </p>
