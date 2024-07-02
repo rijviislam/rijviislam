@@ -11,12 +11,11 @@
 Having expertise in creating dynamic and responsive websites using JavaScript, HTML5, CSS3, Tailwind CSS, React.js and contemporary libraries and frameworks.
 </p>
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🧑‍💻 Knowledgeable about HTML, CSS, Tailwind CSS, JavaScript, and React.js
+- 🚀 Acquiring and utilizing React to create dynamic websites
+- 🤝 Used to collaborative development processes and Git version control
+- 🌱 Flexible and keen to pick up new technology to broaden my horizons
+- ✉️ You can contact me at [rijviislam54@gmail.com]
 <h2 align="center">🌐 Social 🌐</h2>
 <h5 align="center">
   <code><a href="
