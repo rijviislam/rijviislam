@@ -7,11 +7,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rijvi+Islam....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
+<h2 align="center">🌐 Social 🌐</h2>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/instagram.svg"> Instagram</a></code>
-   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://th.bing.com/th/id/OIP.XFQn26nBqYC4w7TQEV3aKwHaHa?w=165&h=180&c=7&r=0&o=5&pid=1.7"> Instagram</a></code>
+  <code><a href="
+https://www.linkedin.com/in/rijviislam" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/rijviislam_" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/instagram.svg"> Instagram</a></code>
+   <code><a href="https://www.facebook.com/rijviislam.01" title="Instagram Profile"><img width="22" src="https://i.ibb.co/H2dfKXD/OIP-1-removebg-preview.png"> Facebook</a></code>
 </h5>
 <br>
 
@@ -22,32 +23,36 @@
 <p align="center">
   <code><img title="HTML" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/html5.svg"></code>
    <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/css.svg"></code>
-     <code><img title="SASS" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/sass.svg"></code>
-       <code><img title="JavaScript" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/javascript.svg"></code>
-         <code><img title="React.Js" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/react-original.svg"></code>
-           <code><img title="Github" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/git-original.svg"></code>
-                      <code><img title="Vs Code" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/vscode.png"></code>
-                                 <code><img title="npm" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/npm.svg"></code>
-                                            <code><img title="Firebase" height="25" src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png"></code>
-                                                                                        <code><img title="Tailwind CSS" height="25" src="https://th.bing.com/th/id/OIP.ScsTorj8Sg1nHM8D4J8l-wAAAA?pid=ImgDet&w=194&h=194&c=7"></code>
+<code><img title="SASS" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/sass.svg"></code>
+  <code><img title="Tailwind CSS" height="25" src="https://i.ibb.co/88vndkG/OIP-1-removebg-preview.png"></code>
+ <code><img title="JavaScript" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/javascript.svg"></code>
+ <code><img title="React.Js" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/react-original.svg"></code>
+ <code><img title="Git" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/git-original.svg"></code>
+<code><img title="Github" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/github.svg"></code>
+<code><img title="Vs Code" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/vscode.png"></code>
+<code><img title="npm" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/npm.svg"></code>
+ <code><img title="Firebase" height="25" src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png"></code>                                                            
+<code><img title="Node.js" height="25" src="https://i.ibb.co/rQZzrwt/node-removebg-preview.png"></code>    
+ <code><img title="Express.js" height="25" src="https://i.ibb.co/89Qf8Mq/express-removebg-preview.png"></code>           <code><img title="Mongodb" height="25" src="https://i.ibb.co/NmtSrjp/mongo-2.png"></code>                                                                            
 </p>
 <hr>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📊 GitHub Stats 📊</h2>
 <br>
 <p align=center>
   <div align=center>
-   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rijviislam&theme=react&border=61dafb&hide_border=true" alt="rijviislam" />
-  
- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-       <img align="center" src="https://github-readme-stats.vercel.app/api?username=rijviislam&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="rijviislam" />
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=rijviislam&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rijviislam&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-   <br><br><br><br><br><br><br><br><br>
-    <div align=center>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijviislam&show_icons=true&locale=en&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true&langs_count=8" alt="Top Languages" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijviislam&show_icons=true&locale=en&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true&langs_count=8" />
     </a>
   </div>
-  </p>
+  <br>
+
+</p>
