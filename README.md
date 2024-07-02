@@ -10,6 +10,7 @@
 <p>
 Having expertise in creating dynamic and responsive websites using JavaScript, HTML5, CSS3, Tailwind CSS, React.js and contemporary libraries and frameworks.
 </p>
+### Skills & Expertise:
 - 🧑‍💻 Knowledgeable about HTML, CSS, Tailwind CSS, JavaScript, and React.js
 - 🚀 Acquiring and utilizing React to create dynamic websites
 - 🤝 Used to collaborative development processes and Git version control
