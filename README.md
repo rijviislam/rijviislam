@@ -11,7 +11,7 @@
 Having expertise in creating dynamic and responsive websites using JavaScript, HTML5, CSS3, Tailwind CSS, React.js and contemporary libraries and frameworks.
 </p>
 
-- 🔭 I’m currently working on [https://skill-connect-1.vercel.app]
+- 🔭 I’m currently working on [https://skill-connect-eta.vercel.app]
 - 🧑‍💻 Knowledgeable about HTML, CSS, Tailwind CSS, JavaScript, and React.js
 - 🚀 Acquiring and utilizing React to create dynamic websites
 - 🤝 Used to collaborative development processes and Git version control
