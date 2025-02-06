@@ -19,8 +19,7 @@ Having expertise in creating dynamic and responsive websites using JavaScript, H
 - ✉️ You can contact me at [rijviislam54@gmail.com]
 <h2 align="center">🌐 Social 🌐</h2>
 <h5 align="center">
-  <code><a href="
-https://www.linkedin.com/in/rijviislam" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/rijviislam" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/rijviislam_" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/instagram.svg"> Instagram</a></code>
    <code><a href="https://www.facebook.com/rijviislam.01" title="Instagram Profile"><img width="22" src="https://i.ibb.co/H2dfKXD/OIP-1-removebg-preview.png"> Facebook</a></code>
 </h5>
