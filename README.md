@@ -16,7 +16,7 @@ Having expertise in creating dynamic and responsive websites using JavaScript, H
 - 🚀 Acquiring and utilizing React to create dynamic websites
 - 🤝 Used to collaborative development processes and Git version control
 - 🌱 Flexible and keen to pick up new technology to broaden my horizons
-- ✉️ You can contact me at [rijviislam01@gmail.com]
+- ✉️ You can contact me at [rijviisla54@gmail.com]
 <h2 align="center">🌐 Social 🌐</h2>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/rijviislam" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/linkedin.svg"> LinkedIn</a></code>
