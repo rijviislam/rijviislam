@@ -7,16 +7,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rijvi+Islam....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<p>
-Having expertise in creating dynamic and responsive websites using JavaScript, HTML5, CSS3, Tailwind CSS, React.js and contemporary libraries and frameworks.
-</p>
 
-- 🔭 I’m currently working on [ https://nestelle.vercel.app ]
-- 🧑‍💻 Knowledgeable about HTML, CSS, Tailwind CSS, JavaScript, and React.js
-- 🚀 Acquiring and utilizing React to create dynamic websites
-- 🤝 Used to collaborative development processes and Git version control
-- 🌱 Flexible and keen to pick up new technology to broaden my horizons
-- ✉️ You can contact me at [rijviisla54@gmail.com]
+
+### 👋 Hi, I'm Rijvi — a Frontend Developer who turns designs into fast, pixel-perfect web experiences.
+
+I specialize in building responsive, user-friendly interfaces with **React.js** and **Next.js**, backed by a solid understanding of the full stack — from **TypeScript** to **PostgreSQL**. I care about clean code, smooth UX, and shipping things that actually work.
+
+- 🔭 I'm currently working on [ https://nestelle.vercel.app ]
+- 💡 Specialized in: React.js, Next.js, TypeScript, Tailwind CSS
+- ⚙️ Also comfortable with: Node.js, Express, PostgreSQL (Prisma), Docker
+- 🎯 Turning Figma designs into pixel-perfect, accessible interfaces
+- 🚀 Currently exploring AI-assisted development workflows
+- 🤝 Collaborative dev process — Git, GitHub, code reviews
+- 🌱 Always learning — always shipping
+- ✉️ Let's connect: [rijviislam54@gmail.com](mailto:rijviislam54@gmail.com)
 <h2 align="center">🌐 Social 🌐</h2>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/rijviislam" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/linkedin.svg"> LinkedIn</a></code>
