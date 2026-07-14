@@ -40,7 +40,13 @@ Having expertise in creating dynamic and responsive websites using JavaScript, H
 <code><img title="Github" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/github.svg"></code>
 <code><img title="Vs Code" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/vscode.png"></code>
 <code><img title="npm" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/npm.svg"></code>
- <code><img title="Firebase" height="25" src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png"></code>                                                            
+ <code><img title="Firebase" height="25" src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png"></code>    
+  <code><img title="Bootstrap" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
+<code><img title="TypeScript" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img title="Next.js" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="background:white;border-radius:4px;padding:2px"></code>
+<code><img title="Prisma" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" style="background:white;border-radius:4px;padding:2px"></code>
+<code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
+<code><img title="NeonDB" height="25" src="https://neon.tech/favicon/favicon.svg"></code>
 <code><img title="Node.js" height="25" src="https://i.ibb.co/rQZzrwt/node-removebg-preview.png"></code>    
  <code><img title="Express.js" height="25" src="https://i.ibb.co/89Qf8Mq/express-removebg-preview.png"></code>           <code><img title="Mongodb" height="25" src="https://i.ibb.co/NmtSrjp/mongo-2.png"></code>                                                                            
 </p>
