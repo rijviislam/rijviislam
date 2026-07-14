@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="banner" style="width: 100%;" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=100000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+React.js+%26+Next.js+%7C+Building+Pixel-Perfect+UIs" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
