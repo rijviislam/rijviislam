@@ -34,16 +34,16 @@ Having expertise in creating dynamic and responsive websites using JavaScript, H
    <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/css.svg"></code>
 <code><img title="SASS" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/sass.svg"></code>
   <code><img title="Tailwind CSS" height="25" src="https://i.ibb.co/88vndkG/OIP-1-removebg-preview.png"></code>
+  <code><img title="Bootstrap" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
  <code><img title="JavaScript" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/javascript.svg"></code>
+<code><img title="TypeScript" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
  <code><img title="React.Js" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/react-original.svg"></code>
+  <code><img title="Next.js" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="background:white;border-radius:4px;padding:2px"></code>
  <code><img title="Git" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/git-original.svg"></code>
 <code><img title="Github" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/github.svg"></code>
 <code><img title="Vs Code" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/vscode.png"></code>
 <code><img title="npm" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/npm.svg"></code>
  <code><img title="Firebase" height="25" src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png"></code>    
-  <code><img title="Bootstrap" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
-<code><img title="TypeScript" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-<code><img title="Next.js" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="background:white;border-radius:4px;padding:2px"></code>
 <code><img title="Prisma" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" style="background:white;border-radius:4px;padding:2px"></code>
 <code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
 <code><img title="NeonDB" height="25" src="https://neon.tech/favicon/favicon.svg"></code>
