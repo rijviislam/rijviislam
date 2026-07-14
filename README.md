@@ -3,8 +3,9 @@
 </p>
 
 <h1 align="center">
-  <img src="[https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rijvi+Islam+%F0%9F%91%8B;Frontend+Developer;React.js+%26+Next.js+Specialist;I+turn+designs+into+pixel-perfect+code](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rijvi+Islam+%F0%9F%91%8B;Frontend+Developer;React.js+%26+Next.js+Specialist;I+turn+designs+into+pixel-perfect+code" alt="Typing SVG" />
+  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" />
 </h1>
 
 
