@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="banner" style="width: 100%;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="banner" style="width: 100%;" />
 </p>
 
 <h1 align="center">
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rijvi+Islam+%F0%9F%91%8B;Frontend+Developer;React.js+%26+Next.js+Specialist;I+turn+designs+into+pixel-perfect+code" alt="Typing SVG" />
-</p>
+  <img src="[https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rijvi+Islam+%F0%9F%91%8B;Frontend+Developer;React.js+%26+Next.js+Specialist;I+turn+designs+into+pixel-perfect+code](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)" alt="Typing SVG" />
+
 </h1>
 
 
