@@ -4,9 +4,28 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rijvi+Islam....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rijvi+Islam+%F0%9F%91%8B;Frontend+Developer;React.js+%26+Next.js+Specialist;I+turn+designs+into+pixel-perfect+code;Nice+to+meet+you!" alt="Typing SVG" />
   </a>
 </h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rijviislam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rijviislam" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/rijviislam.01" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:rijviislam54@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rijviislam&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="profile views" />
+</p>
 
 
 ### 👋 Hi, I'm Rijvi — a Frontend Developer who turns designs into fast, pixel-perfect web experiences.
